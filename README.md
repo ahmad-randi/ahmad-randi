@@ -2,6 +2,10 @@
 
 ## 🌐 Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/ahmadrandy_06/)
+[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@randynvs)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmad-randi-710680392)
+[![Website](https://img.shields.io/badge/Website-Visit-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://it-kelasterbuka.web.app)
+[![GitHub Community](https://img.shields.io/badge/GitHub%20Community-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/it-kelasterbuka)
 
 ---
 
