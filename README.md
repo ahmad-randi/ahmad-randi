@@ -1,11 +1,6 @@
 <!-- TOP WAVE -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0a97b0"/>
 
-<!-- AVATAR -->
-<div align="center">
-  <img src="https://imgur.com/zeuHIk9.gif" width="200">
-</div>
-
 <!-- BADGE -->
 <div align="center">
   <img src="https://img.shields.io/badge/bedul.codes-yellow" />
@@ -40,7 +35,7 @@
 <div align="center" style="display: inline_block">
   <br>
   <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/GoLang.svg" />
-  <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Java.svg" />
+  <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Java-Dark.svg" />
   <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PHP-Dark.svg" />
   <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Laravel-Dark.svg" />
   <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MySQL-Dark.svg" />
