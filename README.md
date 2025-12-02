@@ -1,14 +1,6 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0a97b0"/>
 
 <div align="center">
-  <samp>
-    <b>
-      <br>
-      Halo, Saya Ahmad Randi (Bedul)!
-      <br>
-</div>
-
-<div align="center">
   <img src="https://imgur.com/zeuHIk9.gif" width="200">
 </div>
 <div align="center">
@@ -16,7 +8,7 @@
 </div>
 
 <div align="center" width="100%">
-  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=0a97b0&width=900&size=21&center=true&lines=Backend+Developer+%7C+Golang;Passionate+About+Clean+Architecture;Always+Learning+New+Tech;Welcome+to+My+Profile!" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=0a97b0&width=900&size=21&center=true&lines=Wellcome+to+My+Profil;Saya+Ahmad+Randi;Biasa+di+panggil+Bedul;Saya+Lulusan+Teknik+Informatika" alt="Typing SVG"/>
 </div>
 
 <details align="center">
