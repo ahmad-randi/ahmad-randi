@@ -11,9 +11,6 @@
   padding-bottom: 40px;
 ">
 
-<!-- TOP WAVE -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0a97b0"/>
-
 <!-- AVATAR / LOGO -->
 <div align="center">
   <img src="https://imgur.com/zeuHIk9.gif" width="200">
