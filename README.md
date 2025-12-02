@@ -63,7 +63,7 @@
     <img src="https://img.shields.io/badge/TikTok-1e222a?style=for-the-badge&logo=tiktok&logoColor=fff"/>
   </a>
   <a href="https://www.linkedin.com/in/ahmad-randi-710680392">
-    <img src="https://img.shields.io/badge/LinkedIn-1e222a?style=for-the-badge&logo=linkedin&logoColor=fff"/>
+    <img src="https://img.shields.io/badge/LinkedIn-1e222a?style=for-the-badge&amp;logo=linkedin&amp;logoColor=fff"/>
   </a>
   <a href="https://it-kelasterbuka.web.app">
     <img src="https://img.shields.io/badge/Website-1e222a?style=for-the-badge&logo=google-chrome&logoColor=fff"/>
