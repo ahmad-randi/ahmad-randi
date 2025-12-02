@@ -3,11 +3,8 @@
 
 <!-- AVATAR -->
 <div align="center">
-  <img src="https://media.tenor.com/AdyODFy5zhAAAAAM/anime-sharingen-madara-eye.gif" width="200">
+  <img src="https://media.tenor.com/AdyODFy5zhAAAAAM/anime-sharingen-madara-eye.gif" width="100%">
 </div>
-
-<br/>
-<br/>
 
 <!-- BADGE -->
 <div align="center">
