@@ -19,7 +19,7 @@
 <br>
 
 <!-- COLLAPSE SECTION -->
-<details align="center">
+<details align="center" size=30px>
   <summary><samp><b>More Info</b></samp></summary>
   <br>
 
