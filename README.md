@@ -1,15 +1,36 @@
+<!-- FULL BACKGROUND WRAPPER -->
+<div style="
+  background: url('https://wallpaperaccess.com/full/8379320.jpg') no-repeat center/cover;
+  padding: 0;
+">
+
+<!-- DARK OVERLAY -->
+<div style="
+  background: rgba(0,0,0,0.65);
+  backdrop-filter: blur(2px);
+  padding-bottom: 40px;
+">
+
+<!-- TOP WAVE -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0a97b0"/>
 
+<!-- AVATAR / LOGO -->
 <div align="center">
   <img src="https://imgur.com/zeuHIk9.gif" width="200">
 </div>
+
+<!-- BEDUL BADGE -->
 <div align="center">
   <img src="https://img.shields.io/badge/bedul.codes-yellow" />
 </div>
 
-<div align="center" width="100%">
+<!-- TYPING TEXT -->
+<div align="center" width="100%" style="margin-top:20px;">
   <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=0a97b0&width=900&size=21&center=true&lines=Wellcome+to+My+Profil;Saya+Ahmad+Randi;Biasa+di+panggil+Bedul;Saya+Lulusan+Teknik+Informatika" alt="Typing SVG"/>
 </div>
+
+<!-- MAIN CONTENT -->
+<br>
 
 <details align="center">
     <summary>
@@ -19,10 +40,10 @@
 
 <div align="center">
 
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ahmad-randi\&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ahmad-randi\&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ahmad-randi\&theme=nord_dark\&utcOffset=8) |
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ahmad-randi&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ahmad-randi&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ahmad-randi&theme=nord_dark&utcOffset=8) |
 | :-------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------: |
 
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahmad-randi\&theme=nord_dark) | ![](https://github-readme-streak-stats.herokuapp.com?user=ahmad-randi\&theme=nord) |
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahmad-randi&theme=nord_dark) | ![](https://github-readme-streak-stats.herokuapp.com?user=ahmad-randi&theme=nord) |
 | :-----------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------: |
 
 </div>
@@ -30,10 +51,10 @@
 <br>
 
 <!-- SKILLS -->
-
 <div align="center" style="display: inline_block"><br>
+
   <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/GoLang.svg" />
-  <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Java.svg" />
+  <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Java-Dark.svg" />
   <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PHP-Dark.svg" />
   <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Laravel-Dark.svg" />
   <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MySQL-Dark.svg" />
@@ -43,16 +64,18 @@
   <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg" />
   <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Bootstrap.svg" />
   <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg" />
+
 </div>
 
 <br><br>
 
+<!-- SOCIAL LINKS -->
 <div align="center">
 
-[![Instagram](https://img.shields.io/badge/Instagram-1e222a?style=for-the-badge\&logo=instagram\&logoColor=fff)](https://www.instagram.com/ahmadrandy_06)
-[![TikTok](https://img.shields.io/badge/TikTok-1e222a?style=for-the-badge\&logo=tiktok\&logoColor=fff)](https://www.tiktok.com/@randynvs)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-1e222a?style=for-the-badge\&logo=linkedin\&logoColor=fff)](https://www.linkedin.com/in/ahmad-randi-710680392)
-[![Website](https://img.shields.io/badge/Website-1e222a?style=for-the-badge\&logo=google-chrome\&logoColor=fff)](https://it-kelasterbuka.web.app)
+[![Instagram](https://img.shields.io/badge/Instagram-1e222a?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/ahmadrandy_06)
+[![TikTok](https://img.shields.io/badge/TikTok-1e222a?style=for-the-badge&logo=tiktok&logoColor=fff)](https://www.tiktok.com/@randynvs)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1e222a?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/ahmad-randi-710680392)
+[![Website](https://img.shields.io/badge/Website-1e222a?style=for-the-badge&logo=google-chrome&logoColor=fff)](https://it-kelasterbuka.web.app)
 
 </div>
 
@@ -72,4 +95,8 @@
 
 <br><br>
 
+<!-- BOTTOM WAVE -->
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0a97b0&height=100&section=footer"/>
+
+</div>
+</div>
