@@ -54,20 +54,20 @@
 
 # 📊 GitHub Stats & Grafik Menarik
 
-### **🔥 Streak Stats**
+### 🔥 Streak Stats
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=AhmadRandi06&theme=radical&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=ahmad-randi&theme=radical&hide_border=true" />
 </p>
 
-### **📈 GitHub Stats**
+### 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AhmadRandi06&show_icons=true&theme=radical&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmadRandi06&layout=compact&theme=radical&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmad-randi&show_icons=true&theme=radical&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmad-randi&layout=compact&theme=radical&hide_border=true" height="165"/>
 </p>
 
-### **📉 Contribution Graph**
+### 📉 Contribution Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AhmadRandi06&theme=react-dark&hide_border=true&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmad-randi&theme=react-dark&hide_border=true&area=true" />
 </p>
 
 ---
