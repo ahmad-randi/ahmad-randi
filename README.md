@@ -12,7 +12,7 @@
   <img src="https://imgur.com/zeuHIk9.gif" width="200">
 </div>
 <div align="center">
-  <img src="https://img.shields.io/badge/bedul.codes-black" />
+  <img src="https://img.shields.io/badge/bedul.codes-yellow" />
 </div>
 
 <div align="center" width="100%">
