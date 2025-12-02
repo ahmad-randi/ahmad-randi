@@ -1,52 +1,102 @@
-# 👋 Hi, I'm Ahmad Randi (Bedul)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0a97b0"/>
 
-## 🌐 Socials
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/ahmadrandy_06/)
-[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@randynvs)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmad-randi-710680392)
-[![Website](https://img.shields.io/badge/Website-Visit-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://it-kelasterbuka.web.app)
-[![GitHub Community](https://img.shields.io/badge/GitHub%20Community-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/it-kelasterbuka)
----
-# 💻 Tech Stack
-### **Web Development**
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
-### **Backend Development**
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![CodeIgniter](https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=for-the-badge&logo=codeIgniter&logoColor=white)
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-### **Mobile Development**
-![ReactNative](https://img.shields.io/badge/React_Native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Expo](https://img.shields.io/badge/Expo-000000?style=for-the-badge&logo=expo&logoColor=white)
-### **Frontend Frameworks**
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-### **Database & Tools**
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![XAMPP](https://img.shields.io/badge/XAMPP-F37623?style=for-the-badge&logo=xampp&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-### **Others**
-![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
-![NetBeans](https://img.shields.io/badge/Apache%20NetBeans-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
----
-# 📊 GitHub Stats
-### **Overall Stats**
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmad-randi&show_icons=true&theme=radical)
+<div align="center">
+  <samp>
+    <b>
+      バックエンドエンジニア
+      <br>
+      Halo, gue Ahmad Randi (Bedul)!
+      <br>
+</div>
 
-### **Top Languages**
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmad-randi&layout=compact&theme=radical)
+<div align="center">
+  <p align="center">
+    <img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Fahmad-randi&s=25&c=0a97b0&bg=00000000&no=2&ff=digi&tb=Profile+Visits%3A++" />
+  </p> 
+</div>
 
-### **Contribution Streak**
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ahmad-randi&theme=radical)
+<br><br>
 
-### **Activity Graph**
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ahmad-randi&theme=radical)
+<div align="center">
+  <img src="https://imgur.com/zeuHIk9.gif" width="200">
+</div>
+<div align="center">
+  <img src="https://img.shields.io/badge/bedul.codes-black" />
+</div>
 
----
-### ✍️ Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+<div align="center" width="100%">
+  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=0a97b0&width=900&size=21&center=true&lines=Backend+Developer+%7C+Golang;Passionate+About+Clean+Architecture;Always+Learning+New+Tech;Welcome+to+My+Profile!" alt="Typing SVG"/>
+</div>
+
+<br>
+
+<!-- SNAKE GAME -->
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ahmad-randi/ahmad-randi/output/github-contribution-grid-snake.svg" alt="snake">
+</p>
+
+<br>
+
+<details align="center">
+    <summary>
+      <samp><b>More Info</b></samp>
+    </summary>
+    <br>
+
+<div align="center">
+
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ahmad-randi\&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ahmad-randi\&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ahmad-randi\&theme=nord_dark\&utcOffset=8) |
+| :-------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------: |
+
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahmad-randi\&theme=nord_dark) | ![](https://github-readme-streak-stats.herokuapp.com?user=ahmad-randi\&theme=nord) |
+| :-----------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------: |
+
+</div>
+
+<br>
+
+<!-- SKILLS -->
+
+<div align="center" style="display: inline_block"><br>
+  <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/GoLang.svg" />
+  <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Java.svg" />
+  <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PHP-Dark.svg" />
+  <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Laravel-Dark.svg" />
+  <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MySQL-Dark.svg" />
+  <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Firebase-Dark.svg" />
+  <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/React-Dark.svg" />
+  <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg" />
+  <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg" />
+  <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Bootstrap.svg" />
+  <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg" />
+</div>
+
+<br><br>
+
+<div align="center">
+
+[![Instagram](https://img.shields.io/badge/Instagram-1e222a?style=for-the-badge\&logo=instagram\&logoColor=fff)](https://www.instagram.com/ahmadrandy_06)
+[![TikTok](https://img.shields.io/badge/TikTok-1e222a?style=for-the-badge\&logo=tiktok\&logoColor=fff)](https://www.tiktok.com/@randynvs)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1e222a?style=for-the-badge\&logo=linkedin\&logoColor=fff)](https://www.linkedin.com/in/ahmad-randi-710680392)
+[![Website](https://img.shields.io/badge/Website-1e222a?style=for-the-badge\&logo=google-chrome\&logoColor=fff)](https://it-kelasterbuka.web.app)
+
+</div>
+
+<br>
+
+<div align="center">
+<p align="center">
+      <samp>
+        ♡ <a href="https://it-kelasterbuka.web.app">Portfolio</a> ⊹
+        <a href="https://github.com/it-kelasterbuka">Community</a> ⊹
+        <a href="https://github.com/ahmad-randi">GitHub</a> ♡
+      </samp>
+  </p>
+</div>
+
+</details>
+
+<br><br>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0a97b0&height=100&section=footer"/>
