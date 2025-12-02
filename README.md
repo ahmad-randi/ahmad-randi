@@ -4,7 +4,7 @@
   <samp>
     <b>
       <br>
-      Halo, gue Ahmad Randi (Bedul)!
+      Halo, Saya Ahmad Randi (Bedul)!
       <br>
 </div>
 
@@ -30,11 +30,6 @@
 <br>
 
 <!-- SNAKE GAME -->
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ahmad-randi/ahmad-randi/output/github-contribution-grid-snake.svg" alt="snake">
-</p>
-
 <br>
 
 <details align="center">
