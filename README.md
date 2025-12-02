@@ -19,11 +19,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=0a97b0&width=900&size=21&center=true&lines=Backend+Developer+%7C+Golang;Passionate+About+Clean+Architecture;Always+Learning+New+Tech;Welcome+to+My+Profile!" alt="Typing SVG"/>
 </div>
 
-<br>
-
-<!-- SNAKE GAME -->
-<br>
-
 <details align="center">
     <summary>
       <samp><b>More Info</b></samp>
