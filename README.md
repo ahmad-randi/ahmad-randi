@@ -3,7 +3,6 @@
 <div align="center">
   <samp>
     <b>
-      バックエンドエンジニア
       <br>
       Halo, gue Ahmad Randi (Bedul)!
       <br>
