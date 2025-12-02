@@ -36,16 +36,16 @@
 ---
 # 📊 GitHub Stats
 ### **Overall Stats**
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmadrandy_06&show_icons=true&theme=radical&hide_border=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmad-randi&show_icons=true&theme=radical&hide_border=true&count_private=true)
 
 ### **Top Languages**
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadrandy_06&layout=compact&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmad-randi&layout=compact&theme=radical&hide_border=true)
 
 ### **Contribution Streak**
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ahmadrandy_06&theme=radical&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ahmad-randi&theme=radical&hide_border=true)
 
 ### **Activity Graph**
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ahmadrandy_06&theme=radical)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ahmad-randi&theme=radical)
 
 ---
 ### ✍️ Dev Quote
