@@ -12,7 +12,7 @@
 </div>
 
 <!-- TYPING TEXT -->
-<div align="center" width="100%" style="margin-top: 10px;">
+<div align="center" size=50px width="100%" style="margin-top: 10px;">
   <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=0a97b0&width=900&size=21&center=true&lines=Wellcome+to+My+Profil;Saya+Ahmad+Randi;Biasa+di+panggil+Bedul;Saya+Lulusan+Teknik+Informatika" alt="Typing SVG"/>
 </div>
 
