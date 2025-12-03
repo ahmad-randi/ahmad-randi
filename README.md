@@ -76,7 +76,7 @@
 <div align="center">
   <p>
     <samp>
-      ♡ <a href="https://it-kelasterbuka.web.app">Portfolio</a> ⊹
+      ♡ <a href="https://it-kelasterbuka.web.app">Web Community</a> ⊹
       <a href="https://github.com/it-kelasterbuka">Community</a> ⊹
       <a href="https://github.com/ahmad-randi">GitHub</a> ♡
     </samp>
