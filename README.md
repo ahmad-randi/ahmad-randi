@@ -3,7 +3,7 @@
 
 <!-- AVATAR -->
 <div align="center">
-  <img src="https://imgur.com/zeuHIk9.gif" width="200">
+  <img src="https://imgur.com/zeuHIk9.gif" width="250">
 </div>
 
 <!-- BADGE -->
